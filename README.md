@@ -1,5 +1,13 @@
 # CLUSTERISASI PARTITIONING METHODS (K-MEANS DAN K-MEDOIDS)
 
+## tugas akhir Data Mining kelompok 3 04TPLP035
+Anggota :
+1. A reigy azhalis (241011401343)
+2. Alya Ghina Khoirunnisa Suryaningrat (241011401332)
+3. Billy Nanda Alfahrizi (241011403022)
+4. Diva Handika Noval (241011401353)
+5. Fadjar Ilham Rifa'i (241011401336)
+
 ## 1. Pendahuluan
 
 Clustering merupakan salah satu teknik *unsupervised learning* yang digunakan untuk mengelompokkan data berdasarkan tingkat kemiripannya. Data yang memiliki karakteristik serupa akan ditempatkan dalam satu kelompok (*cluster*), sedangkan data yang berbeda akan berada pada cluster yang berbeda. Tujuan utama clustering adalah menghasilkan kelompok yang homogen di dalam cluster dan heterogen antar cluster.
