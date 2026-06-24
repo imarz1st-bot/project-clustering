@@ -1,12 +1,13 @@
 # CLUSTERISASI PARTITIONING METHODS (K-MEANS DAN K-MEDOIDS)
 
-## tugas akhir Data Mining kelompok 3 04TPLP035
+## Tugas Akhir Data Mining Kelompok 3 04TPLP035
 Anggota :
 1. A reigy azhalis (241011401343)
 2. Alya Ghina Khoirunnisa Suryaningrat (241011401332)
 3. Billy Nanda Alfahrizi (241011403022)
 4. Diva Handika Noval (241011401353)
 5. Fadjar Ilham Rifa'i (241011401336)
+video presentasi : https://youtu.be/TWwkoge27aA
 
 ## 1. Pendahuluan
 
