@@ -7,6 +7,7 @@ Anggota :
 3. Billy Nanda Alfahrizi (241011403022)
 4. Diva Handika Noval (241011401353)
 5. Fadjar Ilham Rifa'i (241011401336)
+
 video presentasi : https://youtu.be/TWwkoge27aA
 
 ## 1. Pendahuluan
